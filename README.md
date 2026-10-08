@@ -1,13 +1,14 @@
-# 👋 Hi, I'm Jina Park!
+# 👋 Hi, I'm Jina Park! (M.S. in Computer Science 1st year at USC)
 
-🎭 Architectural Engineering • Ballet • Acting • Coding  
-💡 Designing emotion-aware AI through the fusion of art and technology
+🎭 ML Engineer • Computer Vision Engineer
+📍 B.S. in Architectural Engineering • B.S. in Ballet • B.A. in Theater and Film
 
 ---
 
 I hold academic degrees in **architectural engineering, ballet, and acting**.  
+I was a DJ and musical actress in Korea.
 This unique combination of structural thinking, artistic intuition, and embodied expression  
-deeply informs the way I design **emotion-aware interactive systems** today.
+deeply informs the way I design **interactive systems through Computer Vision** today.
 
 My goal is to create technology that not only functions,  
 but **feels** — that senses, responds, and resonates with human emotion.  
