@@ -5,37 +5,14 @@
 
 ---
 
-I hold academic degrees in **architectural engineering, ballet, and acting**.  
-I was a DJ and musical actress in Korea.
-This unique combination of structural thinking, artistic intuition, and embodied expression  
-deeply informs the way I design **interactive systems through Computer Vision** today.
+Jina Park is pursuing a master’s degree in Computer Science at the University of Southern California, focusing on machine learning, computer vision, and human-centered AI. Before transitioning to computer science, she studied Architectural Engineering, Dance, and Theater and Film at Hanyang University in South Korea. She has also worked as a contemporary artist, ballet instructor, DJ, bakery operator, and musical actress, performing as Meg Giry in The Phantom of the Opera.
 
-My goal is to create technology that not only functions,  
-but **feels** — that senses, responds, and resonates with human emotion.  
-I believe **technology should not just be intelligent, but also empathetic**.  
-That's the direction I'm headed.
-
----
-
-## 💡 What I'm working on
-
-- 🎨 AI that understands human emotion and gesture  
-- 🤖 Interactive systems combining HCI, neurosymbolic AI, and artistic sensitivity  
-- 🧠 Studying Python, algorithms, and creative computing
-
----
-
-## 🌱 Fun facts
-
-- 🥖 Started a vegan bakery due to a milk allergy  
-- 🎧 Dreaming of DJing at Tomorrowland  
-- 💬 Emotion is my native language — especially in Korean  
-- 🎬 Got cast as Meg Giry in *The Phantom of the Opera* (Original Broadway production – Korean tour)
+Recently, she developed an at-home monitoring system for people with Parkinson’s disease that uses an inexpensive webcam instead of clinical equipment, reducing the burden of repeated hospital visits. The project won the Grand Prize from South Korea’s Ministry of Science and ICT, placing first among 134 teams. She is an engineer and artist who applies AI to real-world problems, reexamines what technological progress can obscure or leave behind, and strives to make technology equitable and accessible.
 
 ---
 
 ## 📫 Reach me
 
-📩 jina.park.it@gmail.com  
+📩 jpark350@usc.edu
 🤝 Always open to creative collaboration and meaningful conversations
 
